@@ -1,0 +1,10 @@
+# teleGram-OBHOd
+
+Если в Telegram не грузятся картинки, teleGram-OBHOd чинит канал без VPN-клиента.
+
+Если в Telegram не грузятся картинки, teleGram-OBHOd чинит канал без VPN-клиента. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/summitantnote/teleGram-OBHOd/releases/latest
+Код: https://github.com/summitantnote/teleGram-OBHOd
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/summitantnote/teleGram-OBHOd
